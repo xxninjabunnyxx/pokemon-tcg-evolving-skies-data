@@ -1,0 +1,95 @@
+---
+id: swsh7-14
+name: Trevenant VMAX
+supertype: Pokémon
+subtypes:
+- VMAX
+hp: '320'
+types:
+- Grass
+evolvesFrom: Trevenant V
+rules:
+- 'VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.'
+attacks:
+- name: Missing in the Forest
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 40×
+  text: This attack does 40 damage for each Supporter card in your opponent's discard
+    pile.
+- name: Max Tree
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '180'
+  text: ''
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh7
+  name: Evolving Skies
+  series: Sword & Shield
+  printedTotal: 203
+  total: 237
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: EVS
+  releaseDate: 2021/08/27
+  updatedAt: 2021/08/27 10:17:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh7/symbol.png
+    logo: https://images.pokemontcg.io/swsh7/logo.png
+number: '14'
+artist: MUGENUP
+rarity: Rare Holo VMAX
+nationalPokedexNumbers:
+- 709
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh7/14.png
+  large: https://images.pokemontcg.io/swsh7/14_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh7-14
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.74
+      mid: 1.53
+      high: 19.99
+      market: 1.33
+      directLow: 1.31
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh7-14
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 1.75
+    lowPrice: 0.85
+    trendPrice: 1.76
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.85
+    avg1: 1.46
+    avg7: 1.81
+    avg30: 1.71
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

@@ -1,0 +1,101 @@
+---
+id: swsh7-182
+name: Golurk V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+- Single Strike
+hp: '220'
+types:
+- Psychic
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Mega Punch
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '80'
+  text: ''
+- name: Rewind Beam
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '180'
+  text: If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting
+    the highest Stage Evolution card on it into your opponent's hand.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh7
+  name: Evolving Skies
+  series: Sword & Shield
+  printedTotal: 203
+  total: 237
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: EVS
+  releaseDate: 2021/08/27
+  updatedAt: 2021/08/27 10:17:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh7/symbol.png
+    logo: https://images.pokemontcg.io/swsh7/logo.png
+number: '182'
+artist: Oswaldo KATO
+rarity: Rare Ultra
+nationalPokedexNumbers:
+- 623
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh7/182.png
+  large: https://images.pokemontcg.io/swsh7/182_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh7-182
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 12.24
+      mid: 16.06
+      high: 100.0
+      market: 15.14
+      directLow: 15.39
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh7-182
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 22.56
+    lowPrice: 15.5
+    trendPrice: 22.95
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 16.0
+    avg1: 25.0
+    avg7: 23.17
+    avg30: 24.05
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

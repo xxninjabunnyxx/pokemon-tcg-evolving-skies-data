@@ -1,0 +1,95 @@
+---
+id: swsh7-107
+name: Bagon
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Dragon
+evolvesTo:
+- Shelgon
+attacks:
+- name: Gnaw
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Headbutt
+  cost:
+  - Fire
+  - Water
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh7
+  name: Evolving Skies
+  series: Sword & Shield
+  printedTotal: 203
+  total: 237
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: EVS
+  releaseDate: 2021/08/27
+  updatedAt: 2021/08/27 10:17:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh7/symbol.png
+    logo: https://images.pokemontcg.io/swsh7/logo.png
+number: '107'
+artist: ryoma uratsuka
+rarity: Common
+flavorText: Some theories suggest that its behavior of forcefully bashing its head
+  into things stimulates cells that affect its evolution.
+nationalPokedexNumbers:
+- 371
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh7/107.png
+  large: https://images.pokemontcg.io/swsh7/107_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh7-107
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.08
+      high: 40.0
+      market: 0.02
+      directLow: 
+    reverseHolofoil:
+      low: 0.03
+      mid: 0.15
+      high: 2.0
+      market: 0.11
+      directLow: 0.1
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh7-107
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.03
+    lowPrice: 0.01
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.12
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.09
+    lowPriceExPlus: 0.01
+    avg1: 0.05
+    avg7: 0.03
+    avg30: 0.03
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.11
+    reverseHoloAvg30: 0.13
